@@ -78,6 +78,20 @@ The program creates charts for:
 - Portfolio allocation
 - Stock return correlations
 
+### Example Visualizations
+
+#### Apple Price History
+
+![Apple Price History](images/apple_price_history.png)
+
+#### Stock Correlation Heatmap
+
+![Stock Correlation Heatmap](images/correlation_heatmap.png)
+
+#### Portfolio Allocation
+
+![Portfolio Allocation](images/portfolio_allocation.png)
+
 ## Data Format
 
 The program uses historical stock price data stored in CSV files.
